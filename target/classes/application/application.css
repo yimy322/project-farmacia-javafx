@@ -1,0 +1,7 @@
+/* Animacion para el button con css */
+.button:hover {
+    -fx-scale-x: 1.1;
+    -fx-scale-y: 1.1;
+    -fx-background-color: #2980b9;
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.6), 15, 0, 0, 0);
+}
